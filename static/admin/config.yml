@@ -1,5 +1,6 @@
 backend:
-  name: anezgabriel/gatsby-netlify
+  name: github
+  repo: anezgabriel/gatsby-netlify
 
 media_folder: static/assets
 public_folder: assets
